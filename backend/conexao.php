@@ -1,7 +1,7 @@
 <?php
 $host = "petshopdb.mysql.database.azure.com";
 $user = "admin1";
-$pass = 'S#nai@115';
+$pass = 'S#nai@1151';
 $dbname = "petshop";
 
 // Criar a conexao com o Banco de Dados
